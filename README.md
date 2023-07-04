@@ -11,3 +11,8 @@
 | 8.|`Easy`|[Two Sum](https://leetcode.com/problems/two-sum/)|
 | 9.|`Easy`|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|
 | 10.|`Medium`|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|
+| 11.|`Medium`|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|
+| 12.|`Medium`|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|
+| 13.|`Medium`|[3Sum](https://leetcode.com/problems/3sum/)|
+| 14.|`Medium`|[4Sum](https://leetcode.com/problems/4sum/)|
+| 15.|`Medium`|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|
