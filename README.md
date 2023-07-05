@@ -16,3 +16,8 @@
 | 13.|`Medium`|[3Sum](https://leetcode.com/problems/3sum/)|
 | 14.|`Medium`|[4Sum](https://leetcode.com/problems/4sum/)|
 | 15.|`Medium`|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|
+| 16.|`Medium`|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)|
+| 17.|`Medium`|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|
+| 18.|`Medium`|[Word Search](https://leetcode.com/problems/word-search/)|
+| 19.|`Medium`|[Jump Game](https://leetcode.com/problems/jump-game/)|
+| 20.|`Medium`|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|
