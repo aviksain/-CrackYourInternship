@@ -19,8 +19,8 @@
 | 15.|`Medium`|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Maximum_Points_You_Can_Obtain_from_Cards.cpp)|
 | 16.|`Medium`|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Subarray_Sum_Equals_K.cpp)|
 | 17.|`Medium`|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Spiral_Matrix.cpp)|
-| 18.|`Medium`|[Word Search](https://leetcode.com/problems/word-search/)||
-| 19.|`Medium`|[Jump Game](https://leetcode.com/problems/jump-game/)||
+| 18.|`Medium`|[Word Search](https://leetcode.com/problems/word-search/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Word_Search.cpp)|
+| 19.|`Medium`|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Jump_Game.cpp)|
 | 20.|`Medium`|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||
 | 21.|`Medium`|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Majority_Element.cpp)|
 | 22.|`Medium`|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Reverse_Pairs.cpp)|
