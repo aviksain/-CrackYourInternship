@@ -22,8 +22,8 @@
 | 18.|`Medium`|[Word Search](https://leetcode.com/problems/word-search/)||
 | 19.|`Medium`|[Jump Game](https://leetcode.com/problems/jump-game/)||
 | 20.|`Medium`|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||
-| 21.|`Medium`|[Majority Element](https://leetcode.com/problems/majority-element/description/)||
-| 22.|`Medium`|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)||
+| 21.|`Medium`|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Majority_Element.cpp)|
+| 22.|`Medium`|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Reverse_Pairs.cpp)|
 | 23.|`Medium`|[Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/)||
-| 24.|`Medium`|[Game of Life](https://leetcode.com/problems/game-of-life/)||
+| 24.|`Medium`|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Game_of_Life.cpp)|
 | 25.|`Hard`|[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)||
