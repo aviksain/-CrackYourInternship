@@ -27,3 +27,5 @@
 | 23.|`Medium`|[Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/)||
 | 24.|`Medium`|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Game_of_Life.cpp)|
 | 25.|`Hard`|[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)||
+| 26.|`Hard`|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)||
+| 27.|`Hard`|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)||
