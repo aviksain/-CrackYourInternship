@@ -21,11 +21,11 @@
 | 17.|`Medium`|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Spiral_Matrix.cpp)|
 | 18.|`Medium`|[Word Search](https://leetcode.com/problems/word-search/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Word_Search.cpp)|
 | 19.|`Medium`|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Jump_Game.cpp)|
-| 20.|`Medium`|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||
+| 20.|`Medium`|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Merge_Sorted_Array.cpp)|
 | 21.|`Medium`|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Majority_Element.cpp)|
 | 22.|`Medium`|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Reverse_Pairs.cpp)|
 | 23.|`Medium`|[Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/)||
 | 24.|`Medium`|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Medium/Game_of_Life.cpp)|
-| 25.|`Hard`|[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)||
-| 26.|`Hard`|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)||
-| 27.|`Hard`|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)||
+| 25.|`Hard`|[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Hard/Max_Value_of_Equation.cpp)|
+| 26.|`Hard`|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Hard/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.cpp)|
+| 27.|`Hard`|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Hard/Largest_Rectangle_in_Histogram.cpp)|
