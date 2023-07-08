@@ -29,3 +29,10 @@
 | 25.|`Hard`|[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Hard/Max_Value_of_Equation.cpp)|
 | 26.|`Hard`|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Hard/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.cpp)|
 | 27.|`Hard`|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Hard/Largest_Rectangle_in_Histogram.cpp)|
+|***Strings***||||
+| 28.|`Easy`|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)||
+| 29.|`Easy`|[Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)||
+| 30.|`Easy`|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)||
+| 31.|`Easy`|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||
+| 32.|`Easy`|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)||
+| 33.|`Medium`|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)||
