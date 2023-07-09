@@ -36,5 +36,9 @@
 | 31.|`Easy`|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Easy/Longest_Common_Prefix.cpp)|
 | 32.|`Easy`|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Easy/Valid_Palindrome_II.cpp)|
 | 33.|`Medium`|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Integer_to_Roman.cpp)|
-
+| 34.|`Medium`|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)||
+| 35.|`Medium`|[Simplify Path](https://leetcode.com/problems/simplify-path/)||
+| 36.|`Medium`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||
+| 37.|`Medium`|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)||
+| 38.|`Medium`|[Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)||
 
