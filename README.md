@@ -41,4 +41,4 @@
 | 36.|`Medium`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||
 | 37.|`Medium`|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Reverse_Words_in_a_String.cpp)|
 | 38.|`Medium`|[Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)||
-
+| 38.|`Medium`|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Group_Anagrams.cpp)|
