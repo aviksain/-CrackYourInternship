@@ -38,11 +38,30 @@
 | 33.|`Medium`|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Integer_to_Roman.cpp)|
 | 34.|`Medium`|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Generate_Parentheses.cpp)|
 | 35.|`Medium`|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Simplify_Path.cpp)|
-| 36.|`Medium`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||
-| 37.|`Medium`|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Reverse_Words_in_a_String.cpp)|
-| 38.|`Medium`|[Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)||
-| 39.|`Medium`|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Group_Anagrams.cpp)|
-| 40.|`Medium`|[Word Wrap](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)||
-| 41.|`Medium`|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||
-| 42.|`Hard`|[Valid Number](https://leetcode.com/problems/valid-number/)||
-| 43.|`Hard`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||
+| 36.|`Medium`|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Reverse_Words_in_a_String.cpp)|
+| 37.|`Medium`|[Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)||
+| 38.|`Medium`|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Group_Anagrams.cpp)|
+| 39.|`Medium`|[Word Wrap](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)||
+| 40.|`Medium`|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||
+| 41.|`Hard`|[Valid Number](https://leetcode.com/problems/valid-number/)||
+| 42.|`Hard`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||
+| 43.|`Hard`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||
+| 44.|`Hard`|[Text Justification](https://leetcode.com/problems/text-justification/)||
+| 45.|`Hard`|[Boyer Moore Algorithm for Pattern Searching](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/)||
+| 46.|`Hard`|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)||
+|***Matrix Problems***||||
+| 47.|`Medium`|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)||
+| 48.|`Medium`|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||
+| 49.|`Medium`|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)||
+| 50.|`Medium`|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)||
+| 51.|`Medium`|[Rotate Image](https://leetcode.com/problems/rotate-image/)||
+
+
+
+
+
+
+
+
+
+
