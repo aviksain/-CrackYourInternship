@@ -44,5 +44,5 @@
 | 39.|`Medium`|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Group_Anagrams.cpp)|
 | 40.|`Medium`|[Word Wrap](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)||
 | 41.|`Medium`|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||
-| 42.|`Medium`|[Valid Number](https://leetcode.com/problems/valid-number/)||
-| 43.|`Medium`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||
+| 42.|`Hard`|[Valid Number](https://leetcode.com/problems/valid-number/)||
+| 43.|`Hard`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||
