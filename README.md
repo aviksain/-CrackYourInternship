@@ -41,8 +41,8 @@
 | 36.|`Medium`|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Reverse_Words_in_a_String.cpp)|
 | 37.|`Medium`|[Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)||
 | 38.|`Medium`|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Group_Anagrams.cpp)|
-| 39.|`Medium`|[Word Wrap](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)||
-| 40.|`Medium`|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||
+| 39.|`Medium`|[Word Wrap](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Word_Wrap.cpp)|
+| 40.|`Medium`|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Basic_Calculator_II.cpp)|
 | 41.|`Hard`|[Valid Number](https://leetcode.com/problems/valid-number/)||
 | 42.|`Hard`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||
 | 43.|`Hard`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||
