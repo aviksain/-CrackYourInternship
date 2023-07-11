@@ -50,11 +50,11 @@
 | 45.|`Hard`|[Boyer Moore Algorithm for Pattern Searching](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/)||
 | 46.|`Hard`|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Distinct_Subsequences.cpp)|
 |***Matrix Problems***||||
-| 47.|`Medium`|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)||
-| 48.|`Medium`|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||
-| 49.|`Medium`|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)||
-| 50.|`Medium`|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)||
-| 51.|`Medium`|[Rotate Image](https://leetcode.com/problems/rotate-image/)||
+| 47.|`Medium`|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++]()|
+| 48.|`Medium`|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Number_of%20_Islands.cpp)|
+| 49.|`Medium`|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Surrounded_Regions.cpp)|
+| 50.|`Medium`|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Spiral_Matrix.cpp)|
+| 51.|`Medium`|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Rotate_Image.cpp)|
 
 
 
