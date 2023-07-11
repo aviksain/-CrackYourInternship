@@ -44,11 +44,11 @@
 | 39.|`Medium`|[Word Wrap](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Word_Wrap.cpp)|
 | 40.|`Medium`|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Basic_Calculator_II.cpp)|
 | 41.|`Hard`|[Valid Number](https://leetcode.com/problems/valid-number/)||
-| 42.|`Hard`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||
-| 43.|`Hard`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||
+| 42.|`Hard`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Integer_to_English_Words.cpp)|
+| 43.|`Hard`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Minimum_Window_Substring.cpp)|
 | 44.|`Hard`|[Text Justification](https://leetcode.com/problems/text-justification/)||
 | 45.|`Hard`|[Boyer Moore Algorithm for Pattern Searching](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/)||
-| 46.|`Hard`|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)||
+| 46.|`Hard`|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Distinct_Subsequences.cpp)|
 |***Matrix Problems***||||
 | 47.|`Medium`|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)||
 | 48.|`Medium`|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||
