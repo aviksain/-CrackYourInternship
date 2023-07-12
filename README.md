@@ -61,7 +61,10 @@
 | 54.|`Easy`|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Maximum_Product_of_Three_Numbers.cpp)|
 | 55.|`Easy`|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Excel_Sheet_Column_Title.cpp)|
 | 56.|`Easy`|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Happy_Number.cpp)|
-
+| 57.|`Easy`|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)||
+| 58.|`Easy`|[Missing Number](https://leetcode.com/problems/missing-number/)||
+| 59.|`Easy`|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)||
+| 60.|`Easy`|[Power of Two](https://leetcode.com/problems/power-of-two/description/)||
 
 
 
