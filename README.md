@@ -65,8 +65,9 @@
 | 58.|`Easy`|[Missing Number](https://leetcode.com/problems/missing-number/)||
 | 59.|`Easy`|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)||
 | 60.|`Easy`|[Power of Two](https://leetcode.com/problems/power-of-two/description/)||
-
-
+| 61.|`Medium`|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)||
+| 62.|`Medium`|[Valid Square](https://leetcode.com/problems/valid-square/)||
+| 63.|`Medium`|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)||
 
 
 
