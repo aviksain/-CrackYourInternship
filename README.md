@@ -43,14 +43,14 @@
 | 38.|`Medium`|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Group_Anagrams.cpp)|
 | 39.|`Medium`|[Word Wrap](https://practice.geeksforgeeks.org/problems/word-wrap1646/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Word_Wrap.cpp)|
 | 40.|`Medium`|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Medium/Basic_Calculator_II.cpp)|
-| 41.|`Hard`|[Valid Number](https://leetcode.com/problems/valid-number/)||
+| 41.|`Hard`|[Valid Number](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Valid%20Number.cpp)|
 | 42.|`Hard`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Integer_to_English_Words.cpp)|
 | 43.|`Hard`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Minimum_Window_Substring.cpp)|
 | 44.|`Hard`|[Text Justification](https://leetcode.com/problems/text-justification/)||
 | 45.|`Hard`|[Boyer Moore Algorithm for Pattern Searching](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/)||
 | 46.|`Hard`|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Distinct_Subsequences.cpp)|
 |***Matrix Problems***||||
-| 47.|`Medium`|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)||
+| 47.|`Medium`|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Maximal_Rectangle.cpp)|
 | 48.|`Medium`|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Number_of%20_Islands.cpp)|
 | 49.|`Medium`|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Surrounded_Regions.cpp)|
 | 50.|`Medium`|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Spiral_Matrix.cpp)|
@@ -61,10 +61,10 @@
 | 54.|`Easy`|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Maximum_Product_of_Three_Numbers.cpp)|
 | 55.|`Easy`|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Excel_Sheet_Column_Title.cpp)|
 | 56.|`Easy`|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Happy_Number.cpp)|
-| 57.|`Easy`|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)||
-| 58.|`Easy`|[Missing Number](https://leetcode.com/problems/missing-number/)||
-| 59.|`Easy`|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)||
-| 60.|`Easy`|[Power of Two](https://leetcode.com/problems/power-of-two/description/)||
+| 57.|`Easy`|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Easy/Palindrome_Number.cpp)|
+| 58.|`Easy`|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Easy/Missing_Number.cpp)|
+| 59.|`Easy`|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Easy/Reverse_Integer.cpp)|
+| 60.|`Easy`|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Easy/Power_of_Two.cpp)|
 | 61.|`Medium`|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)||
 | 62.|`Medium`|[Valid Square](https://leetcode.com/problems/valid-square/)||
 | 63.|`Medium`|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)||
