@@ -68,6 +68,12 @@
 | 61.|`Medium`|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)||
 | 62.|`Medium`|[Valid Square](https://leetcode.com/problems/valid-square/)||
 | 63.|`Medium`|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)||
+|***Sorting and Searching***||||
+| 64.|`Easy`|[Permute two arrays such that sum of every pair is greater or equal to K](https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/)||
+| 65.|`Easy`|[Ceiling in a sorted array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)||
+| 66.|`Easy`|[Find a pair with the given difference](https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/)||
+| 67.|`Medium`|[Check if reversing a sub array make the array sorted](https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/)||
+| 68.|`Medium`|[Radix Sort](https://www.geeksforgeeks.org/radix-sort/)||
 
 
 
