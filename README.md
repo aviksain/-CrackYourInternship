@@ -56,7 +56,7 @@
 | 50.|`Medium`|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Spiral_Matrix.cpp)|
 | 51.|`Medium`|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Matrix%20Problems/Rotate_Image.cpp)|
 |***Mathematical Problems***||||
-| 52.|`Easy`|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)||
+| 52.|`Easy`|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Easy/Minimum_Moves_to_Equal_Array_Elements.cpp)|
 | 53.|`Easy`|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Add_Binary.cpp)|
 | 54.|`Easy`|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Maximum_Product_of_Three_Numbers.cpp)|
 | 55.|`Easy`|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Excel_Sheet_Column_Title.cpp)|
