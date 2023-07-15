@@ -76,7 +76,7 @@
 | 68.|`Medium`|[Radix Sort](https://www.geeksforgeeks.org/radix-sort/)||
 | 69.|`Medium`|[Product of Array except itself](https://www.geeksforgeeks.org/a-product-array-puzzle/)||
 | 70.|`Medium`|[Make all array elements equal with minimum cost](https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/)||
-| 71.|`Medium`|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)||
+| 71.|`Medium`|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Sorting%20and%20Searching/Medium/Find_Peak_Element.cpp)|
 | 72.|`Hard`|[Allocate minimum number of pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)||
 | 73.|`Hard`|[Minimum number of swaps required to sort an array](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)||
 
