@@ -46,7 +46,7 @@
 | 41.|`Hard`|[Valid Number](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Valid%20Number.cpp)|
 | 42.|`Hard`|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Integer_to_English_Words.cpp)|
 | 43.|`Hard`|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Minimum_Window_Substring.cpp)|
-| 44.|`Hard`|[Text Justification](https://leetcode.com/problems/text-justification/)||
+| 44.|`Hard`|[Text Justification](https://leetcode.com/problems/text-justification/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Text_Justification.cpp)|
 | 45.|`Hard`|[Boyer Moore Algorithm for Pattern Searching](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/)||
 | 46.|`Hard`|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Strings/Hard/Distinct_Subsequences.cpp)|
 |***Matrix Problems***||||
