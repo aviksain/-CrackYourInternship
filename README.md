@@ -67,7 +67,7 @@
 | 60.|`Easy`|[Power of Two](https://leetcode.com/problems/power-of-two/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Easy/Power_of_Two.cpp)|
 | 61.|`Medium`|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Medium/Max_Points_on_a_Line.cpp)|
 | 62.|`Medium`|[Valid Square](https://leetcode.com/problems/valid-square/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Medium/Valid_Square.cpp)|
-| 63.|`Medium`|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)||
+| 63.|`Medium`|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Mathematical%20Problems/Medium/The_Kth_factor_of_N.cpp)|
 |***Sorting and Searching***||||
 | 64.|`Easy`|[Permute two arrays such that sum of every pair is greater or equal to K](https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/)||
 | 65.|`Easy`|[Ceiling in a sorted array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)||
