@@ -84,17 +84,17 @@
 | 76.|`Hard`|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Sorting%20and%20Searching/Hard/Count_of_Smaller_Numbers_After_Self.cpp)|
 | 77.|`Hard`|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Sorting%20and%20Searching/Hard/Split_Array_Largest_Sum.cpp)|
 |***Linked List***||||
-| 78.|`Easy`|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)||
-| 79.|`Easy`|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)||
-| 80.|`Easy`|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)||
-| 81.|`Easy`|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)||
-| 82.|`Easy`|[Given a linked list of 0s, 1s and 2s, sort it.](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)||
-| 83.|`Easy`|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)||
-| 84.|`Easy`|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)||
-| 85.|`Easy`|[Multiply two numbers represented by Linked Lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/)||
-| 86.|`Easy`|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)||
-| 87.|`Easy`|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||
-| 88.|`Easy`|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)||
+| 78.|`Easy`|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Middle_of_the_Linked_List.cpp)|
+| 79.|`Easy`|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Linked_List_Cycle.cpp)|
+| 80.|`Easy`|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp)|
+| 81.|`Easy`|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Remove_Duplicates_from_Sorted_List.cpp)|
+| 82.|`Easy`|[Given a linked list of 0s, 1s and 2s, sort it.](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Given_a_linked_list_of_0s_1s_and_2s_sort_it.cpp)|
+| 83.|`Easy`|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Reverse_Linked_List.cpp)|
+| 84.|`Easy`|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Merge_Two_Sorted_Lists.cpp)|
+| 85.|`Easy`|[Multiply two numbers represented by Linked Lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Multiply_two_linked_lists.cpp)|
+| 86.|`Easy`|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Intersection_of_Two_Linked_Lists.cpp)|
+| 87.|`Easy`|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Delete_Node_in_a_Linked_List.cpp)|
+| 88.|`Easy`|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Palindrome_Linked_List.cpp)|
 
 
 
