@@ -95,7 +95,12 @@
 | 86.|`Easy`|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Intersection_of_Two_Linked_Lists.cpp)|
 | 87.|`Easy`|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Delete_Node_in_a_Linked_List.cpp)|
 | 88.|`Easy`|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Easy/Palindrome_Linked_List.cpp)|
-
+| 89.|`Medium`|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)||
+| 90.|`Medium`|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)||
+| 91.|`Medium`|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)||
+| 92.|`Medium`|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)||
+| 93.|`Medium`|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)||
+| 94.|`Medium`|[Partition List](https://leetcode.com/problems/partition-list/)||
 
 
 
