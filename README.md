@@ -101,6 +101,14 @@
 | 92.|`Medium`|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Medium/Remove_Nth_Node_From_End_of_List.cpp)|
 | 93.|`Medium`|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Medium/Flatten_a_Multilevel_Doubly_Linked_List.cpp)|
 | 94.|`Medium`|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Medium/Partition_List.cpp)|
+| 95.|`Medium`|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[]()|
+| 96.|`Medium`|[Rearrange a Linked List in Zig-Zag fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/)|[]()|
+| 97.|`Medium`|[Segregate even and odd nodes in a Linked List](https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/)|[]()|
+| 98.|`Medium`|[Rearrange a given linked list in-place](https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/)||
+| 99.|`Hard`|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||
+
+
+
 
 
 
