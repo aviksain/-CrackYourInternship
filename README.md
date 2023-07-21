@@ -106,9 +106,10 @@
 | 97.|`Medium`|[Segregate even and odd nodes in a Linked List](https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/)|[]()|
 | 98.|`Medium`|[Rearrange a given linked list in-place](https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/)||
 | 99.|`Hard`|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||
-
-
-
-
+| 100.|`Hard`|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)||
+| 101.|`Hard`|[Merge Sort for Linked Lists](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)||
+| 102.|`Hard`|[Flattening a Linked List](https://www.geeksforgeeks.org/flattening-a-linked-list/)||
+| 103.|`Hard`|[Subtract Two Numbers represented as Linked Lists](https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/)||
+|***Stacks and Queues***||||
 
 
