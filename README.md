@@ -101,13 +101,13 @@
 | 92.|`Medium`|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Medium/Remove_Nth_Node_From_End_of_List.cpp)|
 | 93.|`Medium`|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Medium/Flatten_a_Multilevel_Doubly_Linked_List.cpp)|
 | 94.|`Medium`|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Medium/Partition_List.cpp)|
-| 95.|`Medium`|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[]()|
-| 96.|`Medium`|[Rearrange a Linked List in Zig-Zag fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/)|[]()|
+| 95.|`Medium`|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Medium/Remove_Duplicates_from_Sorted_List_II.cpp)|
+| 96.|`Medium`|[Rearrange a Linked List in Zig-Zag fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Medium/Rearrange_a_Linked_List_in_Zig-Zag_fashion.cpp)|
 | 97.|`Medium`|[Segregate even and odd nodes in a Linked List](https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/)|[]()|
 | 98.|`Medium`|[Rearrange a given linked list in-place](https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/)||
-| 99.|`Hard`|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||
+| 99.|`Hard`|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Hard/Merge_k_Sorted_Lists.cpp)|
 | 100.|`Hard`|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)||
-| 101.|`Hard`|[Merge Sort for Linked Lists](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)||
+| 101.|`Hard`|[Merge Sort for Linked Lists](https://github.com/aviksain007/-CrackYourInternship/blob/main/Linked%20LIst/Hard/Merge_Sort_for_Linked_List.cpp)||
 | 102.|`Hard`|[Flattening a Linked List](https://www.geeksforgeeks.org/flattening-a-linked-list/)||
 | 103.|`Hard`|[Subtract Two Numbers represented as Linked Lists](https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/)||
 |***Stacks and Queues***||||
