@@ -111,8 +111,8 @@
 | 102.|`Hard`|[Flattening a Linked List](https://www.geeksforgeeks.org/flattening-a-linked-list/)||
 | 103.|`Hard`|[Subtract Two Numbers represented as Linked Lists](https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/)||
 |***Stacks and Queues***||||
-| 104.|`Easy`|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)||
-| 105.|`Easy`|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)||
+| 104.|`Easy`|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Easy/Implement_Queue_using_Stacks.cpp)|
+| 105.|`Easy`|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Easy/Implement_Stack_using_Queues.cpp)|
 | 106.|`Easy`|[Implement Stack and Queue using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)||
 | 107.|`Easy`|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)||
 | 108.|`Easy`|[Evaluation of Postfix Expression](https://www.geeksforgeeks.org/evaluation-of-postfix-expression/)||
