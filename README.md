@@ -116,4 +116,9 @@
 | 106.|`Easy`|[Implement Stack and Queue using Deque](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)||
 | 107.|`Easy`|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)||
 | 108.|`Easy`|[Evaluation of Postfix Expression](https://www.geeksforgeeks.org/evaluation-of-postfix-expression/)||
+| 109.|`Easy`|[Implement two Stacks in an Array](https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/)||
+| 110.|`Medium`|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)||
+| 111.|`Medium`|[01 Matrix](https://leetcode.com/problems/01-matrix/)||
+| 112.|`Medium`|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)||
+| 113.|`Medium`|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)||
 
