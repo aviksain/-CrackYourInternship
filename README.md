@@ -117,22 +117,17 @@
 | 107.|`Easy`|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Easy/Next_Greater_Element_I.cpp)|
 | 108.|`Easy`|[Evaluation of Postfix Expression](https://www.geeksforgeeks.org/evaluation-of-postfix-expression/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Easy/Evaluation_of_Postfix_Expression.cpp)|
 | 109.|`Easy`|[Implement two Stacks in an Array](https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Easy/Implement_two_Stacks_in_an_Array.cpp)|
-| 110.|`Medium`|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)||
-| 111.|`Medium`|[01 Matrix](https://leetcode.com/problems/01-matrix/)||
+| 110.|`Medium`|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Minimum_Cost_Tree_From_Leaf_Values.cpp)|
+| 111.|`Medium`|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/01_Matrix.cpp)|
 | 112.|`Medium`|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Online_Stock_Span.cpp)|
-| 113.|`Medium`|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)||
+| 113.|`Medium`|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Rotting_Oranges.cpp)|
 | 114.|`Medium`|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)||
 | 115.|`Medium`|[Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1)||
 | 116.|`Medium`|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)||
 | 117.|`Medium`|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)||
 | 118.|`Hard`|[Find maximum of minimum for every window size in a given array](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)||
-
-
-
-
-
-
-
+| 119.|`Hard`|[LRU Cache Implementation](https://www.geeksforgeeks.org/lru-cache-implementation/)||
+| 120.|`Hard`|[The Celebrity Problem](https://www.geeksforgeeks.org/the-celebrity-problem/)||
 
 
 
