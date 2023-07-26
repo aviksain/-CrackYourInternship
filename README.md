@@ -122,11 +122,11 @@
 | 112.|`Medium`|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Online_Stock_Span.cpp)|
 | 113.|`Medium`|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Rotting_Oranges.cpp)|
 | 114.|`Medium`|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)||
-| 115.|`Medium`|[Gas Station](https://leetcode.com/problems/gas-station/)||
-| 116.|`Medium`|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)||
-| 117.|`Medium`|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)||
+| 115.|`Medium`|[Gas Station](https://leetcode.com/problems/gas-station/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Gas_Station.cpp)|
+| 116.|`Medium`|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Remove_All_Adjacent_Duplicates_in_String_II.cpp)|
+| 117.|`Medium`|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Flatten_Nested_List_Iterator.cpp)|
 | 118.|`Hard`|[Find maximum of minimum for every window size in a given array](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)||
-| 119.|`Hard`|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)||
+| 119.|`Hard`|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Hard/LRU_Cache.cpp)|
 | 120.|`Hard`|[The Celebrity Problem](https://www.geeksforgeeks.org/the-celebrity-problem/)||
 
 
