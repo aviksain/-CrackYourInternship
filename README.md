@@ -126,7 +126,7 @@
 | 116.|`Medium`|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)||
 | 117.|`Medium`|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)||
 | 118.|`Hard`|[Find maximum of minimum for every window size in a given array](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)||
-| 119.|`Hard`|[LRU Cache Implementation](https://www.geeksforgeeks.org/lru-cache-implementation/)||
+| 119.|`Hard`|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)||
 | 120.|`Hard`|[The Celebrity Problem](https://www.geeksforgeeks.org/the-celebrity-problem/)||
 
 
