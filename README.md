@@ -127,7 +127,7 @@
 | 117.|`Medium`|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Medium/Flatten_Nested_List_Iterator.cpp)|
 | 118.|`Hard`|[Find maximum of minimum for every window size in a given array](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)||
 | 119.|`Hard`|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Hard/LRU_Cache.cpp)|
-| 120.|`Hard`|[The Celebrity Problem](https://www.geeksforgeeks.org/the-celebrity-problem/)||
+| 120.|`Hard`|[The Celebrity Problem](https://www.geeksforgeeks.org/the-celebrity-problem/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Hard/The_Celebrity_Problem.cpp)|
 |***Trees (BT & BST)***||||
 | 121.|`Easy`|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)||
 | 122.|`Easy`|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)||
