@@ -128,7 +128,25 @@
 | 118.|`Hard`|[Find maximum of minimum for every window size in a given array](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)||
 | 119.|`Hard`|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Stacks%20and%20Queues/Hard/LRU_Cache.cpp)|
 | 120.|`Hard`|[The Celebrity Problem](https://www.geeksforgeeks.org/the-celebrity-problem/)||
-
+|***Trees (BT & BST)***||||
+| 121.|`Easy`|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)||
+| 122.|`Easy`|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)||
+| 123.|`Easy`|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)||
+| 124.|`Easy`|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)||
+| 125.|`Easy`|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)||
+| 126.|`Easy`|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||
+| 127.|`Easy`|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)||
+| 128.|`Easy`|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||
+| 129.|`Easy`|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)||
+| 130.|`Easy`|[Same Tree](https://leetcode.com/problems/same-tree/)||
+| 131.|`Easy`|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||
+| 132.|`Easy`|[Path Sum](https://leetcode.com/problems/path-sum/)||
+| 133.|`Easy`|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)||
+| 134.|`Easy`|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)||
+| 135.|`Easy`|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)||
+| 136.|`Easy`|[Predecessor and Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)||
+| 137.|`Easy`|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)||
+| 138.|`Easy`|[Check whether BST contains Dead End](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1)||
 
 
 
