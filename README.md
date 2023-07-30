@@ -147,9 +147,9 @@
 | 136.|`Easy`|[Predecessor and Successor](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Easy/Predecessor_and_Successor.cpp)|
 | 137.|`Easy`|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Easy/Binary_Tree_Inorder_Traversal.cpp)|
 | 138.|`Easy`|[Check whether BST contains Dead End](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Easy/Check_whether_BST_contains_Dead_End.cpp)|
-| 139.|`Medium`|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)||
-| 140.|`Medium`|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||
-| 141.|`Medium`|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)||
-| 142.|`Medium`|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)||
-| 143.|`Medium`|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)||
+| 139.|`Medium`|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Binary_Search_Tree_Iterator.cpp)|
+| 140.|`Medium`|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Lowest_Common_Ancestor_of_a_Binary_Tree.cpp)|
+| 141.|`Medium`|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Unique_Binary_Search_Trees_II.cpp)|
+| 142.|`Medium`|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/All_Nodes_Distance_K_in_Binary_Tree.cpp)|
+| 143.|`Medium`|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Validate_Binary_Search_Tree.cpp)|
 
