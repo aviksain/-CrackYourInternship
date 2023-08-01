@@ -157,4 +157,8 @@
 | 146.|`Medium`|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Binary_Tree_Level_Order_Traversal.cpp)|
 | 147.|`Medium`|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Path_Sum_III.cpp)|
 | 148.|`Medium`|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.cpp)|
-
+| 149.|`Medium`|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)||
+| 150.|`Medium`|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)||
+| 151.|`Medium`|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||
+| 152.|`Medium`|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)||
+| 153.|`Medium`|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)||
