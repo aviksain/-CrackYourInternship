@@ -162,3 +162,11 @@
 | 151.|`Medium`|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||
 | 152.|`Medium`|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)||
 | 153.|`Medium`|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)||
+| 154.|`Medium`|[Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)||
+| 155.|`Medium`|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)||
+| 156.|`Medium`|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||
+| 157.|`Medium`|[Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)||
+| 158.|`Medium`|[Preorder to PostOrder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1)||
+
+
+
