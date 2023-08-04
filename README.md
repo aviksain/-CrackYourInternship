@@ -167,6 +167,8 @@
 | 156.|`Medium`|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|
 | 157.|`Medium`|[Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Count_BST_nodes_that_lie_in_a_given_range.cpp)|
 | 158.|`Medium`|[Preorder to PostOrder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Preorder_to_PostOrder.cpp)|
-
-
-
+| 159.|`Hard`|[Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)||
+| 160.|`Hard`|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)||
+| 161.|`Hard`|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)||
+| 162.|`Hard`|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)||
+| 163.|`Hard`|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)||
