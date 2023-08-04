@@ -163,10 +163,10 @@
 | 152.|`Medium`|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Flatten_Binary_Tree_to_Linked_List.cpp)|
 | 153.|`Medium`|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Maximum_Width_of_Binary_Tree.cpp)|
 | 154.|`Medium`|[Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)||
-| 155.|`Medium`|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)||
-| 156.|`Medium`|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||
-| 157.|`Medium`|[Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)||
-| 158.|`Medium`|[Preorder to PostOrder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1)||
+| 155.|`Medium`|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Kth_Smallest_Element_in_a_BST.cpp)|
+| 156.|`Medium`|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|
+| 157.|`Medium`|[Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Count_BST_nodes_that_lie_in_a_given_range.cpp)|
+| 158.|`Medium`|[Preorder to PostOrder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Preorder_to_PostOrder.cpp)|
 
 
 
