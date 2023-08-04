@@ -47,3 +47,28 @@ public:
 };
 
 
+// Solution 2 ---------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+class Solution {
+private:
+    Node* func(int pre[], int &idx, int n, int mini, int maxi) {
+        if(idx == n) return NULL;
+        
+        if(pre[idx] <= mini || pre[idx] >= maxi) return NULL;
+        
+        Node* root;
+        
+        root = newNode(pre[idx++]);
+        
+        root->left = func(pre, idx, n, mini ,root->data);
+        root->right = func(pre, idx, n, root->data, maxi);
+        
+        return root;
+    }
+    
+public:
+    Node* post_order(int pre[], int n) {
+        int idx=0;
+        return func(pre,idx,n,INT_MIN,INT_MAX);
+    }
+};
