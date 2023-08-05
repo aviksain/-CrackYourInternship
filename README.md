@@ -162,13 +162,13 @@
 | 151.|`Medium`|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Populating_Next_Right_Pointers_in_Each_Node.cpp)|
 | 152.|`Medium`|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Flatten_Binary_Tree_to_Linked_List.cpp)|
 | 153.|`Medium`|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Maximum_Width_of_Binary_Tree.cpp)|
-| 154.|`Medium`|[Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)||
+| 154.|`Medium`|[Min distance between two given nodes of a Binary Tree](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Min_distance_between_two_given_nodes_of_a_Binary_Tree.cpp)|
 | 155.|`Medium`|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Kth_Smallest_Element_in_a_BST.cpp)|
 | 156.|`Medium`|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Binary_Tree_Zigzag_Level_Order_Traversal.cpp)|
 | 157.|`Medium`|[Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Count_BST_nodes_that_lie_in_a_given_range.cpp)|
 | 158.|`Medium`|[Preorder to PostOrder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Preorder_to_PostOrder.cpp)|
-| 159.|`Hard`|[Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)||
-| 160.|`Hard`|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)||
+| 159.|`Hard`|[Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Binary_Tree_to_DLL.cpp)|
+| 160.|`Hard`|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Binary_Tree_Maximum_Path_Sum.cpp)|
 | 161.|`Hard`|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)||
-| 162.|`Hard`|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)||
-| 163.|`Hard`|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)||
+| 162.|`Hard`|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Binary_Tree_Cameras.cpp)|
+| 163.|`Hard`|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++]()|
