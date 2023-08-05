@@ -1,53 +1,35 @@
-/* Structure for tree and linked list
-
-struct Node
-{
-    int data;
-    struct Node* left;
-    struct Node* right;
-    
-    Node(int x){
-        data = x;
-        left = right = NULL;
-    }
-};
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
  */
 
 
 class Solution {
 private:
-    void convert(Node* root, Node* &prev, Node* &head) {
-        if(!root) return;
+    int func(TreeNode * root, int & maxi) {
+        if (root == NULL) return 0;
+
+        int left = max(0, func(root->left, maxi));
+        int right = max(0, func(root->right, maxi));
         
-        convert(root->left,prev,head);
-        
-        if(prev == NULL) {
-            head = root;
-        }
-        else {
-            root->left = prev;
-            prev->right = root;
-        }
-        
-        prev = root;
-        
-        convert(root->right,prev,head);
+        maxi = max(maxi, (left + right)+root->val);
+        return max(left, right) + root->val;
     }
-    
-public: 
-    Node* bToDLL(Node *root) {
-        if(!root) return NULL;
-        
-        Node* head = NULL;
-        Node* prev = NULL;
-        convert(root,prev,head);
-        
-        return head;
+
+public:
+    int maxPathSum(TreeNode* root) {
+        int maxi = -1e9;
+        func(root,maxi);
+        return maxi;
     }
 };
-
-
-
 
 
 
