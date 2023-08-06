@@ -172,3 +172,11 @@
 | 161.|`Hard`|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)||
 | 162.|`Hard`|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Binary_Tree_Cameras.cpp)|
 | 163.|`Hard`|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Vertical_Order_Traversal_of_a_Binary_Tree.cpp)|
+| 164.|`Hard`|[Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)||
+| 165.|`Hard`|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)||
+| 166.|`Hard`|[Find median of BST](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)||
+| 167.|`Hard`|[Largest BST in a Binary Tree](https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/)||
+| 168.|`Hard`|[Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/)||
+
+
+
