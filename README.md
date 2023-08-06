@@ -5,7 +5,7 @@
 | 1.|`Easy`|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Easy/Set_Matrix_Zeroes.cpp)|
 | 2.|`Easy`|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Easy/Move_Zeroes.cpp)|
 | 3.|`Easy`|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Easy/Best_Time_to_Buy_and_Sell_Stock.cpp)|
-| 4.|`Easy`|[Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/)||
+| 4.|`Easy`|[Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Easy/Chocolate_Distribution_Problem.cpp)|
 | 5.|`Easy`|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Easy/Find_the_Duplicate_Number.cpp)|
 | 6.|`Easy`|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Easy/Sort_Colors.cpp)|
 | 7.|`Easy`|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Array/Easy/Remove_Duplicates_from_Sorted_Array.cpp)|
