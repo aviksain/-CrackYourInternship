@@ -69,6 +69,30 @@ public:
 
 
 
-// Solution 3 ------------------->>>>>>>>>>>>>>
+// Solution 3 ------------------->>>>>>>>>>>>>>   T.C. -> O(n)
 
+class Solution {
+private:
+    TreeNode* create(int& idx, int mini, int maxi, int n, vector<int>& preorder) {
+        if(idx >= n) 
+            return NULL;
+
+        if(preorder[idx] < mini || preorder[idx] > maxi) 
+            return NULL;
+
+        TreeNode* root = new TreeNode(preorder[idx++]);
+
+        root->left = create(idx,mini,root->val,n,preorder);
+
+        root->right = create(idx,root->val,maxi,n,preorder);
+    
+        return root;
+    }
+
+public:
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        int idx = 0;
+        return create(idx,-1e9,1e9,preorder.size(),preorder);
+    }
+};
 
