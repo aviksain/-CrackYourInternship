@@ -177,6 +177,18 @@
 | 166.|`Hard`|[Find median of BST](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)||
 | 167.|`Hard`|[Largest BST in a Binary Tree](https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/)||
 | 168.|`Hard`|[Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/)||
+|***Graphs***||||
+| 169.|`Easy`|[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)||
+| 170.|`Easy`|[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)||
+| 171.|`Easy`|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)||
+| 172.|`Easy`|[Flood Fill](https://leetcode.com/problems/flood-fill/)||
+| 173.|`Easy`|[Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)||
+
+
+
+
+
+
 
 
 
