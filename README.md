@@ -176,11 +176,11 @@
 | 165.|`Hard`|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)||
 | 166.|`Hard`|[Find median of BST](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)||
 | 167.|`Hard`|[Largest BST in a Binary Tree](https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/)||
-| 168.|`Hard`|[Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/)||
+| 168.|`Hard`|[Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Construct_BST_from_given_preorder_traversal.cpp)|
 |***Graphs***||||
-| 169.|`Easy`|[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)||
-| 170.|`Easy`|[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)||
-| 171.|`Easy`|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)||
+| 169.|`Easy`|[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/BFS_of_graph.cpp)|
+| 170.|`Easy`|[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/DFS_of_Graph.cpp)|
+| 171.|`Easy`|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Number_of_Islands.cpp)|
 | 172.|`Easy`|[Flood Fill](https://leetcode.com/problems/flood-fill/)||
 | 173.|`Easy`|[Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)||
 
