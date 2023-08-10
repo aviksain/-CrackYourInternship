@@ -153,7 +153,7 @@
 | 142.|`Medium`|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/All_Nodes_Distance_K_in_Binary_Tree.cpp)|
 | 143.|`Medium`|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Validate_Binary_Search_Tree.cpp)|
 | 144.|`Medium`|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Binary_Tree_Right_Side_View.cpp)|
-| 145.|`Medium`|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)||
+| 145.|`Medium`|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Redundant_Connection.cpp)|
 | 146.|`Medium`|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Binary_Tree_Level_Order_Traversal.cpp)|
 | 147.|`Medium`|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Path_Sum_III.cpp)|
 | 148.|`Medium`|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Medium/Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.cpp)|
@@ -173,7 +173,7 @@
 | 162.|`Hard`|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Binary_Tree_Cameras.cpp)|
 | 163.|`Hard`|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Vertical_Order_Traversal_of_a_Binary_Tree.cpp)|
 | 164.|`Hard`|[Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)||
-| 165.|`Hard`|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)||
+| 165.|`Hard`|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Serialize_and_Deserialize_Binary_Tree.cpp)|
 | 166.|`Hard`|[Find median of BST](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)||
 | 167.|`Hard`|[Largest BST in a Binary Tree](https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/)||
 | 168.|`Hard`|[Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Construct_BST_from_given_preorder_traversal.cpp)|
