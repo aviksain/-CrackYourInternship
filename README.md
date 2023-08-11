@@ -174,8 +174,8 @@
 | 163.|`Hard`|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Vertical_Order_Traversal_of_a_Binary_Tree.cpp)|
 | 164.|`Hard`|[Print all k-sum paths in a binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)||
 | 165.|`Hard`|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Serialize_and_Deserialize_Binary_Tree.cpp)|
-| 166.|`Hard`|[Find median of BST](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)||
-| 167.|`Hard`|[Largest BST in a Binary Tree](https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/)||
+| 166.|`Hard`|[Find median of BST](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Median_of_BST.cpp)|
+| 167.|`Hard`|[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Maximum_Sum_BST_in_Binary_Tree.cpp)|
 | 168.|`Hard`|[Construct BST from given preorder traversal](https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Trees/Hard/Construct_BST_from_given_preorder_traversal.cpp)|
 |***Graphs***||||
 | 169.|`Easy`|[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/BFS_of_graph.cpp)|
