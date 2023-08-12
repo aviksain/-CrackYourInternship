@@ -181,14 +181,16 @@
 | 169.|`Easy`|[BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/BFS_of_graph.cpp)|
 | 170.|`Easy`|[DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/DFS_of_Graph.cpp)|
 | 171.|`Easy`|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Number_of_Islands.cpp)|
-| 172.|`Easy`|[Flood Fill](https://leetcode.com/problems/flood-fill/)||
-| 173.|`Easy`|[Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)||
-| 174.|`Easy`|[Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)||
-| 175.|`Easy`|[Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)||
+| 172.|`Easy`|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Flood_Fill.cpp)|
+| 173.|`Easy`|[Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Rat_in_a_Maze.cpp)|
+| 174.|`Easy`|[Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Detect_cycle_in_an_undirected_graph.cpp)|
+| 175.|`Easy`|[Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Detect_cycle_in_a_directed_graph.cpp)|
 | 176.|`Medium`|[Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)||
 | 177.|`Medium`|[Decode String](https://leetcode.com/problems/decode-string/)||
 | 178.|`Medium`|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)||
-
-
-
+| 179.|`Medium`|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)||
+| 180.|`Medium`|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)||
+| 181.|`Medium`|[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)||
+| 182.|`Medium`|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)||
+| 183.|`Medium`|[Graph Coloring](https://www.geeksforgeeks.org/graph-coloring-applications/)||
 
