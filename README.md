@@ -183,11 +183,11 @@
 | 171.|`Easy`|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Number_of_Islands.cpp)|
 | 172.|`Easy`|[Flood Fill](https://leetcode.com/problems/flood-fill/)||
 | 173.|`Easy`|[Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)||
-
-
-
-
-
+| 174.|`Easy`|[Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)||
+| 175.|`Easy`|[Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)||
+| 176.|`Medium`|[Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)||
+| 177.|`Medium`|[Decode String](https://leetcode.com/problems/decode-string/)||
+| 178.|`Medium`|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)||
 
 
 
