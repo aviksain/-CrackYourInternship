@@ -193,4 +193,14 @@
 | 181.|`Medium`|[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)||
 | 182.|`Medium`|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Time_Needed_to_Inform_All_Employees.cpp)|
 | 183.|`Medium`|[M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/M_Coloring_Problem.cpp)|
+| 184.|`Medium`|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)||
+| 185.|`Medium`|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)||
+| 186.|`Medium`|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)||
+| 187.|`Medium`|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)||
+| 188.|`Medium`|[Prim’s Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)||
+| 189.|`Medium`|[Floyd Warshall Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)||
+| 190.|`Medium`|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)||
+
+
+
 
