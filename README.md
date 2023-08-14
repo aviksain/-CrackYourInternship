@@ -192,5 +192,5 @@
 | 180.|`Medium`|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)||
 | 181.|`Medium`|[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)||
 | 182.|`Medium`|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)||
-| 183.|`Medium`|[Graph Coloring](https://www.geeksforgeeks.org/graph-coloring-applications/)||
+| 183.|`Medium`|[M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)||
 
