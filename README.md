@@ -185,12 +185,12 @@
 | 173.|`Easy`|[Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Rat_in_a_Maze.cpp)|
 | 174.|`Easy`|[Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Detect_cycle_in_an_undirected_graph.cpp)|
 | 175.|`Easy`|[Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Easy/Detect_cycle_in_a_directed_graph.cpp)|
-| 176.|`Medium`|[Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)||
+| 176.|`Medium`|[Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Steps_by_Knight.cpp)|
 | 177.|`Medium`|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Decode_String.cpp)|
 | 178.|`Medium`|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Shortest_Bridge.cpp)|
 | 179.|`Medium`|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Number_of_Operations_to_Make_Network_Connected.cpp)|
-| 180.|`Medium`|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)||
+| 180.|`Medium`|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Find_Eventual_Safe_States.cpp)|
 | 181.|`Medium`|[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)||
-| 182.|`Medium`|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)||
-| 183.|`Medium`|[M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)||
+| 182.|`Medium`|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Time_Needed_to_Inform_All_Employees.cpp)|
+| 183.|`Medium`|[M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/M_Coloring_Problem.cpp)|
 
