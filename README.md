@@ -190,11 +190,11 @@
 | 178.|`Medium`|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Shortest_Bridge.cpp)|
 | 179.|`Medium`|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Number_of_Operations_to_Make_Network_Connected.cpp)|
 | 180.|`Medium`|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Find_Eventual_Safe_States.cpp)|
-| 181.|`Medium`|[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)||
+| 181.|`Medium`|[Strongly Connected Components (Kosaraju's Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Strongly_Connected_Components_(Kosaraju's%20Algo).cpp)|
 | 182.|`Medium`|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Time_Needed_to_Inform_All_Employees.cpp)|
 | 183.|`Medium`|[M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/M_Coloring_Problem.cpp)|
-| 184.|`Medium`|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)||
-| 185.|`Medium`|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)||
+| 184.|`Medium`|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Most_Stones_Removed_with_Same_Row_or_Column.cpp)|
+| 185.|`Medium`|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/As_Far_from_Land_as_Possible.cpp)|
 | 186.|`Medium`|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)||
 | 187.|`Medium`|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)||
 | 188.|`Medium`|[Prim’s Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)||
