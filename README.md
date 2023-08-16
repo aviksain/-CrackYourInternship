@@ -203,7 +203,7 @@
 | 191.|`Medium`|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)||
 | 192.|`Medium`|[Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)||
 | 193.|`Medium`|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)||
-| 194.|`Medium`|[Detect a negative cycle in a Graph|(Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)||
+| 194.|`Medium`|[Detect a negative cycle in a Graph (Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)||
 | 195.|`Medium`|[Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1)||
 
 
