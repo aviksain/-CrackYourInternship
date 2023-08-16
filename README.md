@@ -196,9 +196,9 @@
 | 184.|`Medium`|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Most_Stones_Removed_with_Same_Row_or_Column.cpp)|
 | 185.|`Medium`|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/As_Far_from_Land_as_Possible.cpp)|
 | 186.|`Medium`|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)||
-| 187.|`Medium`|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)||
-| 188.|`Medium`|[Prim’s Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)||
-| 189.|`Medium`|[Floyd Warshall Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)||
+| 187.|`Medium`|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Course_Schedule.cpp)|
+| 188.|`Medium`|[Prim’s Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Prim's_Algorithm.cpp)|
+| 189.|`Medium`|[Floyd Warshall Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Floyd%E2%80%93Warshall_algorithm.cpp)|
 | 190.|`Medium`|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)||
 
 
