@@ -204,6 +204,9 @@
 | 192.|`Medium`|[Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Topological_Sort.cpp)|
 | 193.|`Medium`|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)||
 | 194.|`Medium`|[Detect a negative cycle in a Graph (Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Bellman_Ford_Algorithm.cpp)|
-| 195.|`Medium`|[Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1)||
-
-
+| 195.|`Medium`|[Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Bipartite_Graph.cpp)|
+| 196.|`Hard`|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)||
+| 197.|`Hard`|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)||
+| 198.|`Hard`|[Remove Boxes](https://leetcode.com/problems/remove-boxes/)||
+| 199.|`Hard`|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)||
+| 200.|`Hard`|[Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)||
