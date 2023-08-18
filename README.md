@@ -199,8 +199,8 @@
 | 187.|`Medium`|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Course_Schedule.cpp)|
 | 188.|`Medium`|[Prim’s Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Prim's_Algorithm.cpp)|
 | 189.|`Medium`|[Floyd Warshall Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Floyd%E2%80%93Warshall_algorithm.cpp)|
-| 190.|`Medium`|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)||
-| 191.|`Medium`|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)||
+| 190.|`Medium`|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Evaluate_Division.cpp)|
+| 191.|`Medium`|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Snakes_and_Ladders.cpp)|
 | 192.|`Medium`|[Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Topological_Sort.cpp)|
 | 193.|`Medium`|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)||
 | 194.|`Medium`|[Detect a negative cycle in a Graph (Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Bellman_Ford_Algorithm.cpp)|
