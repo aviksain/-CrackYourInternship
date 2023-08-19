@@ -195,17 +195,17 @@
 | 183.|`Medium`|[M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/M_Coloring_Problem.cpp)|
 | 184.|`Medium`|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Most_Stones_Removed_with_Same_Row_or_Column.cpp)|
 | 185.|`Medium`|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/As_Far_from_Land_as_Possible.cpp)|
-| 186.|`Medium`|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)||
+| 186.|`Medium`|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.cpp)|
 | 187.|`Medium`|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Course_Schedule.cpp)|
 | 188.|`Medium`|[Prim’s Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Prim's_Algorithm.cpp)|
 | 189.|`Medium`|[Floyd Warshall Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Floyd%E2%80%93Warshall_algorithm.cpp)|
 | 190.|`Medium`|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Evaluate_Division.cpp)|
 | 191.|`Medium`|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Snakes_and_Ladders.cpp)|
 | 192.|`Medium`|[Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Topological_Sort.cpp)|
-| 193.|`Medium`|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)||
+| 193.|`Medium`|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Cheapest_Flights_Within_K_Stops.cpp)|
 | 194.|`Medium`|[Detect a negative cycle in a Graph (Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Bellman_Ford_Algorithm.cpp)|
 | 195.|`Medium`|[Bipartite Graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Medium/Bipartite_Graph.cpp)|
-| 196.|`Hard`|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)||
+| 196.|`Hard`|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Hard/Longest_Increasing_Path_in_a_Matrix.cpp)|
 | 197.|`Hard`|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)||
 | 198.|`Hard`|[Remove Boxes](https://leetcode.com/problems/remove-boxes/)||
 | 199.|`Hard`|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)||
