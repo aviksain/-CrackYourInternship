@@ -210,3 +210,10 @@
 | 198.|`Hard`|[Remove Boxes](https://leetcode.com/problems/remove-boxes/)||
 | 199.|`Hard`|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)||
 | 200.|`Hard`|[Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)||
+| 201.|`Hard`|[Water Jug problem](https://www.geeksforgeeks.org/water-jug-problem-using-bfs/)||
+| 202.|`Hard`|[Travelling Salesman Problem](https://www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/)||
+| 203.|`Hard`|[Total number of Spanning Trees in a Graph](https://www.geeksforgeeks.org/total-number-spanning-trees-graph/)||
+| 204.|`Hard`|[Word Ladder](https://leetcode.com/problems/word-ladder/)||
+| 205.|`Hard`|[Minimize Cash Flow](https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/)||
+
+
