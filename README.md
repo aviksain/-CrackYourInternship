@@ -215,5 +215,15 @@
 | 203.|`Hard`|[Total number of Spanning Trees in a Graph](https://www.geeksforgeeks.org/total-number-spanning-trees-graph/)||
 | 204.|`Hard`|[Word Ladder](https://leetcode.com/problems/word-ladder/)||
 | 205.|`Hard`|[Minimize Cash Flow](https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/)||
+|***Tries***||||
+| 206.|`Medium`|[Trie](https://www.geeksforgeeks.org/trie-insert-and-search/)||
+| 207.|`Medium`|[Word Break](https://leetcode.com/problems/word-break/)||
+| 208.|`Medium`|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)||
+| 209.|`Medium`|[Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1)||
+| 210.|`Hard`|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)||
+| 211.|`Hard`|[Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1)||
+|***Heaps***||||
+
+
 
 
