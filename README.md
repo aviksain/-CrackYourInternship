@@ -209,15 +209,15 @@
 | 197.|`Hard`|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Hard/Making_A_Large_Island.cpp)|
 | 198.|`Hard`|[Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Hard/Remove_Boxes.cpp)|
 | 199.|`Hard`|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Hard/Critical_Connections_in_a_Network.cpp)|
-| 200.|`Hard`|[Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)||
+| 200.|`Hard`|[Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Hard/Alien_Dictionary.cpp)|
 | 201.|`Hard`|[Water Jug problem](https://www.geeksforgeeks.org/water-jug-problem-using-bfs/)||
 | 202.|`Hard`|[Travelling Salesman Problem](https://www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/)||
 | 203.|`Hard`|[Total number of Spanning Trees in a Graph](https://www.geeksforgeeks.org/total-number-spanning-trees-graph/)||
-| 204.|`Hard`|[Word Ladder](https://leetcode.com/problems/word-ladder/)||
+| 204.|`Hard`|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Graphs/Hard/Word_Ladder.cpp)|
 | 205.|`Hard`|[Minimize Cash Flow](https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/)||
 |***Tries***||||
 | 206.|`Medium`|[Trie](https://www.geeksforgeeks.org/trie-insert-and-search/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Medium/Trie.cpp)|
-| 207.|`Medium`|[Word Break](https://leetcode.com/problems/word-break/)||
+| 207.|`Medium`|[Word Break](https://leetcode.com/problems/word-break/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Medium/Word_Break.cpp)|
 | 208.|`Medium`|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Medium/Design_Add_and_Search_Words_Data_Structure.cpp)|
 | 209.|`Medium`|[Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1)||
 | 210.|`Hard`|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)||
