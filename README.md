@@ -223,6 +223,21 @@
 | 210.|`Hard`|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)||
 | 211.|`Hard`|[Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1)||
 |***Heaps***||||
+| 212.|`Medium`|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)||
+| 213.|`Medium`|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)||
+| 214.|`Medium`|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)||
+| 215.|`Medium`|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)||
+| 216.|`Medium`|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)||
+
+
+
+
+
+
+
+
+
+
 
 
 
