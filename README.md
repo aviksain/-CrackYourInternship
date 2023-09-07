@@ -228,15 +228,15 @@
 | 214.|`Medium`|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)||
 | 215.|`Medium`|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)||
 | 216.|`Medium`|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)||
-
-
-
-
-
-
-
-
-
+| 217.|`Medium`|[Reorganize String](https://leetcode.com/problems/reorganize-string/)||
+| 218.|`Medium`|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)||
+| 219.|`Medium`|[Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)||
+| 220.|`Medium`|[Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)||
+| 221.|`Medium`|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)||
+| 222.|`Hard`|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)||
+| 223.|`Hard`|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)||
+| 224.|`Hard`|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)||
+| 225.|`Hard`|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)||
 
 
 
