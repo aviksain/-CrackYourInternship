@@ -219,16 +219,16 @@
 | 206.|`Medium`|[Trie](https://www.geeksforgeeks.org/trie-insert-and-search/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Medium/Trie.cpp)|
 | 207.|`Medium`|[Word Break](https://leetcode.com/problems/word-break/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Medium/Word_Break.cpp)|
 | 208.|`Medium`|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Medium/Design_Add_and_Search_Words_Data_Structure.cpp)|
-| 209.|`Medium`|[Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1)||
-| 210.|`Hard`|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)||
-| 211.|`Hard`|[Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1)||
+| 209.|`Medium`|[Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Medium/Print_Anagrams_Together.cpp)|
+| 210.|`Hard`|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Hard/Palindrome_Pairs.cpp)|
+| 211.|`Hard`|[Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Hard/Phone_directory.cpp)|
 |***Heaps***||||
-| 212.|`Medium`|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)||
-| 213.|`Medium`|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)||
-| 214.|`Medium`|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)||
-| 215.|`Medium`|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)||
-| 216.|`Medium`|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)||
-| 217.|`Medium`|[Reorganize String](https://leetcode.com/problems/reorganize-string/)||
+| 212.|`Medium`|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++]()|
+| 213.|`Medium`|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++]()|
+| 214.|`Medium`|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++]()|
+| 215.|`Medium`|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[C++]()|
+| 216.|`Medium`|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++]()|
+| 217.|`Medium`|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++]()|
 | 218.|`Medium`|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)||
 | 219.|`Medium`|[Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)||
 | 220.|`Medium`|[Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)||
