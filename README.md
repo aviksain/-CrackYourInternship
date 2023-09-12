@@ -223,11 +223,11 @@
 | 210.|`Hard`|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Hard/Palindrome_Pairs.cpp)|
 | 211.|`Hard`|[Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Tries/Hard/Phone_directory.cpp)|
 |***Heaps***||||
-| 212.|`Medium`|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++]()|
-| 213.|`Medium`|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++]()|
-| 214.|`Medium`|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++]()|
-| 215.|`Medium`|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[C++]()|
-| 216.|`Medium`|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++]()|
+| 212.|`Medium`|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Top_K_Frequent_Elements.cpp)|
+| 213.|`Medium`|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Kth_Largest_Element_in_an_Array.cpp)|
+| 214.|`Medium`|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Ugly_Number_II.cpp)|
+| 215.|`Medium`|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Furthest_Building_You_Can_Reach.cpp)|
+| 216.|`Medium`|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Kth_Smallest_Element_in_a_Sorted_Matrix.cpp)|
 | 217.|`Medium`|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++]()|
 | 218.|`Medium`|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)||
 | 219.|`Medium`|[Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)||
