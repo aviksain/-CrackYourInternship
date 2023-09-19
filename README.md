@@ -228,14 +228,14 @@
 | 214.|`Medium`|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Ugly_Number_II.cpp)|
 | 215.|`Medium`|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Furthest_Building_You_Can_Reach.cpp)|
 | 216.|`Medium`|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Kth_Smallest_Element_in_a_Sorted_Matrix.cpp)|
-| 217.|`Medium`|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++]()|
-| 218.|`Medium`|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)||
+| 217.|`Medium`|[Reorganize String](https://leetcode.com/problems/reorganize-string/)||
+| 218.|`Medium`|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Find_the_Most_Competitive_Subsequence.cpp)|
 | 219.|`Medium`|[Smallest Positive missing number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)||
-| 220.|`Medium`|[Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)||
-| 221.|`Medium`|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)||
-| 222.|`Hard`|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)||
+| 220.|`Medium`|[Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/Largest_subarray_with_0_sum.cpp)|
+| 221.|`Medium`|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Medium/K_Closest_Points_to_Origin.cpp)|
+| 222.|`Hard`|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Hard/Minimum_Number_of_Refueling_Stops.cpp)|
 | 223.|`Hard`|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)||
-| 224.|`Hard`|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)||
+| 224.|`Hard`|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Hard/Swim_in_Rising_Water.cpp)|
 | 225.|`Hard`|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)||
 
 
