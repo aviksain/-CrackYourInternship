@@ -237,8 +237,12 @@
 | 223.|`Hard`|[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Hard/Minimum_Cost_to_Hire_K_Workers.cpp)|
 | 224.|`Hard`|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Hard/Swim_in_Rising_Water.cpp)|
 | 225.|`Hard`|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)||
-
-
+|***Dynamic Programming***||||
+| 226.|`Easy`|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)||
+| 227.|`Easy`|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)||
+| 228.|`Easy`|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)||
+| 229.|`Easy`|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)||
+| 230.|`Medium`|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)||
 
 
 
