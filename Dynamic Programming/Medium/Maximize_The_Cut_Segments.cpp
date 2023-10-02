@@ -7,7 +7,7 @@ private:
         	return 1;
         }
         
-        int cutX=0, cutY=0, cutZ=0;
+        int cutX=-1e9, cutY=-1e9, cutZ=-1e9;
         
         if(n >= x) {
         	cutX = 1 + func(n-x,x,y,z);
