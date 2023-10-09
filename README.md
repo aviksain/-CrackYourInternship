@@ -238,16 +238,16 @@
 | 224.|`Hard`|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Hard/Swim_in_Rising_Water.cpp)|
 | 225.|`Hard`|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Heaps/Hard/Sliding_Window_Maximum.cpp)|
 |***Dynamic Programming***||||
-| 226.|`Easy`|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)||
-| 227.|`Easy`|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)||
-| 228.|`Easy`|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)||
-| 229.|`Easy`|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)||
-| 230.|`Medium`|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)||
-| 231.|`Medium`|[Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)||
-| 232.|`Medium`|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)||
-| 233.|`Medium`|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)||
-| 234.|`Medium`|[Coin Change](https://leetcode.com/problems/coin-change/description/)||
-| 235.|`Medium`|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)||
+| 226.|`Easy`|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Easy/Climbing_Stairs.cpp)|
+| 227.|`Easy`|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Easy/Maximum_Product_Subarray.cpp)|
+| 228.|`Easy`|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Easy/Ones_and_Zeroes.cpp)|
+| 229.|`Easy`|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Easy/Counting_Bits.cpp)|
+| 230.|`Medium`|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Knight_Dialer.cpp)|
+| 231.|`Medium`|[Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Maximize_The_Cut_Segments.cpp)|
+| 232.|`Medium`|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Unique_Paths.cpp)|
+| 233.|`Medium`|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Minimum_Path_Sum.cpp)|
+| 234.|`Medium`|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Coin_Change.cpp)|
+| 235.|`Medium`|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Decode_Ways.cpp)|
 
 
 
