@@ -248,12 +248,12 @@
 | 233.|`Medium`|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Minimum_Path_Sum.cpp)|
 | 234.|`Medium`|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Coin_Change.cpp)|
 | 235.|`Medium`|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Decode_Ways.cpp)|
-| 236.|`Medium`|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)||
-| 237.|`Medium`|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)||
-| 238.|`Medium`|[Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)||
-| 239.|`Medium`|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)||
-| 240.|`Medium`|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)||
-| 241.|`Medium`|[Mobile numeric keypad](https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1)||
+| 236.|`Medium`|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Maximum_Length_of_Repeated_Subarray.cpp)|
+| 237.|`Medium`|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Longest_Increasing_Subsequence.cpp)|
+| 238.|`Medium`|[Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Longest_Common_Substring.cpp)|
+| 239.|`Medium`|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Count_Square_Submatrices_with_All_Ones.cpp)|
+| 240.|`Medium`|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Maximal_Square.cpp)|
+| 241.|`Medium`|[Mobile numeric keypad](https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Mobile_numeric_keypad.cpp)|
 | 242.|`Medium`|[Weighted Job Scheduling](https://www.geeksforgeeks.org/weighted-job-scheduling/)||
 | 243.|`Medium`|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)||
 | 244.|`Medium`|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)||
