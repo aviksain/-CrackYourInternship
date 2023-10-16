@@ -254,7 +254,7 @@
 | 239.|`Medium`|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Count_Square_Submatrices_with_All_Ones.cpp)|
 | 240.|`Medium`|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Maximal_Square.cpp)|
 | 241.|`Medium`|[Mobile numeric keypad](https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Mobile_numeric_keypad.cpp)|
-| 242.|`Medium`|[Weighted Job Scheduling](https://www.geeksforgeeks.org/weighted-job-scheduling/)||
+| 242.|`Medium`|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)||
 | 243.|`Medium`|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)||
 | 244.|`Medium`|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)||
 
