@@ -257,6 +257,11 @@
 | 242.|`Medium`|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Maximum_Profit_in_Job_Scheduling.cpp)|
 | 243.|`Medium`|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Delete_and_Earn.cpp)|
 | 244.|`Medium`|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Medium/Range_Sum_Query_2D_Immutable.cpp)|
-
+| 245.|`Hard`|[Optimal Binary Search Tree](https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/)||
+| 246.|`Hard`|[Frog Jump](https://leetcode.com/problems/frog-jump/description/)||
+| 247.|`Hard`|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)||
+| 248.|`Hard`|[Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)||
+| 249.|`Hard`|[Largest area rectangular sub-matrix with equal number of 1’s and 0’s](https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/)||
+| 250.|`Hard`|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)||
 
 
