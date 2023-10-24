@@ -263,5 +263,11 @@
 | 248.|`Hard`|[Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)||
 | 249.|`Hard`|[Largest area rectangular sub-matrix with equal number of 1’s and 0’s](https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/)||
 | 250.|`Hard`|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)||
+| 251.|`Hard`|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)||
+| 252.|`Hard`|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/)||
+| 253.|`Hard`|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)||
+| 254.|`Hard`|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)||
+| 255.|`Hard`|[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/)||
+
 
 
