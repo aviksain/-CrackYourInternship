@@ -266,7 +266,7 @@
 | 251.|`Hard`|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Hard/Maximal_Rectangle.cpp)|
 | 252.|`Hard`|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/)||
 | 253.|`Hard`|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Hard/Burst_Balloons.cpp)|
-| 254.|`Hard`|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)||
+| 254.|`Hard`|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Hard/Super_Egg_Drop.cpp)|
 | 255.|`Hard`|[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/)||
 |***Two Pointer Approach***||||
 | 256.|`Medium`|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)||
