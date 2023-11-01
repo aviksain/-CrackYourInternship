@@ -268,6 +268,16 @@
 | 253.|`Hard`|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)|[C++](https://github.com/aviksain007/-CrackYourInternship/blob/main/Dynamic%20Programming/Hard/Burst_Balloons.cpp)|
 | 254.|`Hard`|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)||
 | 255.|`Hard`|[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/)||
+|***Two Pointer Approach***||||
+| 256.|`Medium`|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)||
+| 257.|`Medium`|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)||
+| 258.|`Hard`|[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/description/)||
+|***Greedy Algorithms***||||
+| 259.|`Medium`|[Gas Station](https://leetcode.com/problems/gas-station/description/)||
+| 260.|`Medium`|[Minimum cost for acquiring all coins with k extra coins allowed with every coin](https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/)||
+| 261.|`Medium`|[Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/)||
+| 262.|`Medium`|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)||
+| 263.|`Medium`|[Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)||
 
 
 
