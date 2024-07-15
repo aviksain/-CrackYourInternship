@@ -278,6 +278,7 @@
 | 261.|`Medium`|[Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/)||
 | 262.|`Medium`|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)||
 | 263.|`Medium`|[Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)||
-
+|***Backtracking***||||
+| Pending.|`Medium`|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)|[C++](https://github.com/aviksain/-CrackYourInternship/blob/main/Backtracking/Beautiful_Arrangement.cpp)|
 
 
