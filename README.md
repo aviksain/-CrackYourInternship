@@ -24,7 +24,7 @@
 | 20.|`Medium`|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Array/Medium/Merge_Sorted_Array.cpp)|
 | 21.|`Medium`|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Array/Medium/Majority_Element.cpp)|
 | 22.|`Medium`|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Array/Medium/Reverse_Pairs.cpp)|
-| 23.|`Medium`|[Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/)||
+| 23.|`Medium`|[Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Array/Medium/Print_all_combinations.cpp)|
 | 24.|`Medium`|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Array/Medium/Game_of_Life.cpp)|
 | 25.|`Hard`|[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Array/Hard/Max_Value_of_Equation.cpp)|
 | 26.|`Hard`|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Array/Hard/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.cpp)|
