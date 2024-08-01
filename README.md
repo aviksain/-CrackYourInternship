@@ -282,3 +282,5 @@
 | Pending.|`Medium`|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Backtracking/Beautiful_Arrangement.cpp)|
 |***Segment Trees***||||
 | Pending.|`Easy`|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Segment%20Tree/Range_Sum_Query_Immutable.cpp)|
+| Pending.|`Medium`|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Segment%20Tree/Range_Sum_Query_Mutable.cpp)|
+| Pending.|`Hard`|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)|[C++](https://github.com/aviksain/Arsh-DSA-Sheet/blob/main/Segment%20Tree/Count_of_Smaller_Numbers_After_Self.cpp)|
